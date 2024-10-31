@@ -32,11 +32,11 @@
 > O design é minimalista e fácil de usar, com foco na simplicidade.
 
 ## Telas do Aplicativo 3
-> **Tela Principal**
+> **Tela Principal:**
 > Na tela principal, o usuário escolhe entre: cadastrar usuário ou listar usuários cadastrads (se não tiver nenhum cadastro feito, vai dar um aviso que não á nenhum registro).
->  **Tela cadastro**
+>  **Tela cadastro:**
 > Na tela cadastro, o usuário insere: nome, endereço e telefone, depois tem a opção de cadastrar ou cancelar e voltar pra tela principal.
-> **Tela listagem**
+> **Tela listagem:**
 > Na tela listagem, o usuário tem como ver todas os cadastros registrados.
 
 ## Desenvolvedores
